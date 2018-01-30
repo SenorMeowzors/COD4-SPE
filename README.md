@@ -12,7 +12,7 @@ A little mod I made in my free time screwing around with the scripting capabilit
 - Weapon Swapper Utility (MP -> SP)
 
 
-#Current Cheats
+# Current Cheats
 - Stock Options
 	- Ammo is taken from stockpile
 - Self Medication
@@ -20,7 +20,7 @@ A little mod I made in my free time screwing around with the scripting capabilit
 - Disable Friendly Fire
 	- Disables the mission failure when shooting friendlies
 
-#Realistic Friendly Fire
+# Realistic Friendly Fire
 	- "Essential" Teammates actually die when the friendly fire message appears.
 	
 # Current Bugs
