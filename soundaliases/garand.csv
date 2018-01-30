@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+weap_type100_npc,,weps\garand/shot.wav,0.93,0.98,max,1,1.1,35,13780,weapon,,,,0.7,all_mp,,,,weapon4
+weap_type100_npc,,weps\garand/shot.wav,0.93,0.98,max,1,1.1,35,10600,weapon,,,,0.7,!ac130 all_mp,,,,weapon4
+weap_type100_plr,,weps\garand/shot.wav,0.91,0.94,wpnplyr,0.65,0.75,500000,,local,,,,0.85,,,,,weapon2,,,,
+
+
+gr_m1gar_breech_close_plr,,weps\garand/boltrelease.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+gr_m1gar_clip_in_plr,,weps\garand/cliptap.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+gr_m1garand_futz_plr,,weps\garand/clipout.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
